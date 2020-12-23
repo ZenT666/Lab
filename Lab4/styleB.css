@@ -1,0 +1,134 @@
+ h1 {
+   text-align: center;
+   font-size: 22px;   
+}
+   .nh {
+    font-style: italic; 
+ }
+    #zm {
+   text-align: center;
+    }
+    .btn1 {
+    display: inline-block; 
+    background: blue; 
+    color: #fff; 
+    padding: 0.7rem 0.7rem; 
+    text-decoration: none; 
+    border-radius: 3px; 
+    }
+    .btn2 {
+    display: inline-block; 
+    background: blue; 
+    color: #fff; 
+    padding: 0.7rem 0.7rem; 
+    text-decoration: none; 
+    border-radius: 3px; 
+   }
+    .btn3 {
+    display: inline-block; 
+    background: blue;
+    color: #fff; 
+    padding: 0.7rem 0.7rem; 
+    text-decoration: none; 
+    border-radius: 3px; 
+   }
+    .btn4 {
+    display: inline-block; 
+    background: blue; 
+    color: #fff; 
+    padding: 0.7rem 0.7rem; 
+    text-decoration: none; 
+    border-radius: 3px; 
+   }
+    .btn5 {
+    display: inline-block; 
+    background: blue; 
+    color: #fff; 
+    padding: 0.7rem 0.7rem; 
+    text-decoration: none; 
+    border-radius: 3px; 
+   }
+a.btn1:hover {
+    background-color: magenta;
+    color: black;
+   }
+a.btn2:hover {І
+    background-color: magenta;
+    color: black;
+}
+a.btn3:hover {
+    background-color: magenta;
+    color: black;
+}
+a.btn4:hover {
+    background-color: magenta;
+    color: black;
+}
+a.btn5:hover {
+    background-color: magenta;
+    color: black;
+}
+a.btn1:active {
+  background-color: yellow;
+  color: black; 
+}
+a.btn2:active {
+  background-color: yellow;
+  color black: 
+}
+a.btn3:active {
+  background-color: yellow;
+  color: black;
+}
+a.btn4:active {
+  background-color: yellow;
+  color: black;
+}
+a.btn5:active {
+  background-color: yellow;
+  color: black ;
+}
+
+  article p {
+    font-size: 1.2em;
+     }
+  h2 {
+    font-size: 1.4em;
+     }
+  #bi {
+   background-color: #F8F8F8;
+   color: blue; 
+   filter: contrast(1.2);
+
+  }
+  #dt {
+   background-color: #EEEEEE;
+   color: blue; 
+   filter: contrast(1.2);
+
+  }
+  #se {
+   background-color: #E3E2E2;
+   color: blue; 
+   filter: contrast(1.2);
+
+  }
+  #pz {
+   background-color: #D8C8C8;
+   color: blue; 
+   filter: contrast(1.2);
+
+  }
+  #un {
+   background-color: #E1A2A2;
+   color: blue; 
+   filter: contrast(1.2);
+
+  }
+  #zm {
+   font-weight: bold;
+  }
+
+ .ap  {
+text-transform: uppercase;
+}

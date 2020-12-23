@@ -16,6 +16,8 @@ float: right;
 }
 
 
+
+
 @media (min-width: 993px)  {
 p {
 width: 33.33%;
@@ -68,10 +70,20 @@ float: right;
 }
 
 
+.cl1{
+color: green;
 
+}
 
+.cl2{
+color: 
 
+}
 
+.cl3{
+color: 
+
+}
 
 
 

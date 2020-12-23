@@ -1,0 +1,83 @@
+.txt{
+	border: 3px solid black;
+	background-color: green;
+}
+
+
+.sp{
+	border: 3px solid black;
+	background-color: yellow;
+}
+
+.tb{
+
+    border: 3px solid black;
+	background-color: red;
+}
+
+.zb{
+
+    border: 3px solid black;
+	background-color: blue;
+
+
+
+}
+.hol1{
+   border: 3px solid black;
+   width: 100px;
+   text-align: center;
+   background-color: magenta;
+   color: green;
+   font-family: 'Oswald', sans-serif;
+}
+
+.hol2{
+   border: 3px solid black;
+   width: 130px;
+   text-align: center;
+   background-color: orange;
+   color: yellow;
+   font-family: 'Oswald', sans-serif;
+}
+
+.hol3{
+   border: 3px solid black;
+   width: 140px;
+   text-align: center;
+   background-color: lime;
+   color: red;
+   font-family: 'Oswald', sans-serif;
+}
+.hol4{
+   border: 3px solid black;
+   width: 200px;
+   text-align: center;
+   background-color: pink;
+   color: blue; 
+   font-family: 'Oswald', sans-serif;
+}
+
+
+.cl1{
+color: pink;
+
+}
+
+
+.cl2{
+color: orange;
+
+}
+
+
+.cl3{
+color: lime;
+
+}
+
+.zg{
+font-family: 'Langar', cursive;
+
+}
+
