@@ -129,6 +129,65 @@ a.btn5:active {
    font-weight: bold;
   }
 
- .ap  {
-text-transform: uppercase;
+.baz{
+
+  border: 1px solid black;
 }
+.dut{
+
+  border: 1px solid black;
+}
+.shi{
+
+  border: 1px solid black;
+}
+.poz{
+
+  border: 1px solid black;
+}
+.uni{
+
+  border: 1px solid black;
+}
+
+@media (min-width: 993px) {
+ .baz{
+
+  float: left;
+  width: 33%
+}
+.dut{
+
+   
+  width: 33%
+}
+.shi{
+
+  border:  float: right;
+  width: 33%
+}
+.poz{
+
+  border: 1px solid black;
+}
+.uni{
+
+  border: 1px solid black;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

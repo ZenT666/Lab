@@ -65,16 +65,12 @@
 
 @media (min-width:  769px) and (max-width: 992px)  {
 #bi {
-     
-      display: inline;
-      margin: 0 20px;
-      float: left;      
+      
+      float: right;      
 }
 #nv {
      
-      display: inline;
-      margin:  0 20px;
-      float: left;      
+      float: right;      
 }
 
 @media (max-width: 768px) {
