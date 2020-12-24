@@ -89,93 +89,105 @@ a.btn5:active {
   color: black ;
 }
 
-  article p {
-    font-size: 1.2em;
-     }
-  h2 {
-    font-size: 1.4em;
-     }
-  #bi {
-   background-color: #F8F8F8;
-   color: blue; 
-   filter: contrast(1.2);
+
+ article{
+    font-size: 120%;
+    padding: 3px;
 
   }
-  #dt {
-   background-color: #EEEEEE;
-   color: blue; 
-   filter: contrast(1.2);
 
-  }
-  #se {
-   background-color: #E3E2E2;
-   color: blue; 
-   filter: contrast(1.2);
 
-  }
-  #pz {
-   background-color: #D8C8C8;
-   color: blue; 
-   filter: contrast(1.2);
+@media screen and (min-width: 993px){
+    .baz{
+    width: 33.33%;
+    float: left;
+    
+    }
+    .dut{
+        width: 33.33%;
+        float: left;
+      
 
-  }
-  #un {
-   background-color: #E1A2A2;
-   color: blue; 
-   filter: contrast(1.2);
+    }
+    .shi{
+        width: 33.33%;
+        float: left;
+         
+    }
+    .poz{
+        width: 50%;
+        float: left;
+         
 
-  }
-  #zm {
-   font-weight: bold;
-  }
+    }
+    .uni{
+        width: 50%;
+        float: left;
 
-.baz{
 
-  border: 1px solid black;
+    
 }
-.dut{
+@media screen and (min-width: 769px) and (max-width: 992px){
+    .baz{
+        width: 50%;
+        float: left;
+       
 
-  border: 1px solid black;
+    }
+    .dut{
+        width: 50%;
+        float: left;
+     
+    }
+    .shi{
+        width: 50%;
+        float: left;
+       
+
+    }
+    .poz{
+        width: 50%;
+        float: left;
+       
+
+    }
+    .uni{
+        width: 100%;
+        float: left;
+    
+
+    }
 }
-.shi{
+@media screen and (min-width: 0px) and (max-width: 768px){
+    .baz{
+        width: 100%;
+        float: left;
 
-  border: 1px solid black;
-}
-.poz{
-
-  border: 1px solid black;
-}
-.uni{
-
-  border: 1px solid black;
-}
-
-@media (min-width: 993px) {
- .baz{
-
-  float: left;
-  width: 33%
-}
-.dut{
-
-   
-  width: 33%
-}
-.shi{
-
-  border:  float: right;
-  width: 33%
-}
-.poz{
-
-  border: 1px solid black;
-}
-.uni{
-
-  border: 1px solid black;
-}
+    }
+    .dut{
+        width: 100%;
+        float: left;
 
 
+    }
+    .shi{
+        width: 100%;
+        float: left;
+      
+
+    }
+    .poz{
+        width: 100%;
+        float: left;
+      
+
+    }
+    .uni{
+        width: 100%;
+        float: left;
+     
+
+    }
 }
 
 

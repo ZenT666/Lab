@@ -1,0 +1,56 @@
+  h1 {
+   text-align: center;
+       }
+       .nh {
+    font-style: italic; 
+ }
+      .th{
+      color: red;
+      }
+            
+            h1{
+                font-size: 22px;
+            }
+
+            th{
+                background-color:#2A8000;
+                font-weight: 700;
+            }
+
+            .q{
+                background-color:#BEBEBE;
+        text-align:center;
+            }
+
+            .w{
+                background-color: #FFFFFF;
+        text-align:center;
+            }
+
+            #n{
+                text-align:right;
+            }
+  @media (min-width: 993px){
+    th{
+        font-size: 130%;
+    }
+    td{
+        font-size: 120%;
+    }
+}
+@media (min-width: 769px) and (max-width: 992px){
+    th{
+        font-size: 120%;
+    }
+    td{
+        font-size: 110%;
+    }
+}
+@media (max-width: 768px){
+    th{
+        font-size: 110%;
+    }
+    td{
+        font-size: 100%;
+    }
+}

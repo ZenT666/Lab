@@ -1,0 +1,57 @@
+ h1 {
+   text-align: center;
+     
+   }
+    .nh {
+    font-style: italic; 
+ }
+            
+            h1{
+                font-size: 22px;
+            }
+
+            .numered:hover{
+                cursor: pointer ;
+            }
+
+            .odd{
+                background-color:#BEBEBE;
+            }
+
+            .pair{
+                background-color: #FFFFFF;
+            }
+
+            #fourth{
+               background-color:#78978D; 
+            }
+
+@media (min-width: 993px){
+    .vs{
+    width: 50%;
+    float: left;
+}
+    .va{
+        width: 50%;
+        float: left;
+    }
+}
+@media (min-width: 769px) and (max-width: 992px){
+    .vs{
+        width: 100%;
+        float: left;
+    }
+    .va{
+        width: 100%;
+        float: left;
+    }
+}
+@media (max-width: 768px){
+    .vs{
+        width: 100%;
+        float: left;
+    }
+    .va{
+        width: 100%;
+        float: left;
+    }
