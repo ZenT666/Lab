@@ -1,0 +1,33 @@
+  h1 {
+   text-align: center;
+       }
+       .nh {
+    font-style: italic; 
+ }
+      .th{
+      color: red;
+      }
+            
+            h1{
+                font-size: 22px;
+            }
+
+            th{
+                background-color:#2A8000;
+                font-weight: 700;
+            }
+
+            .q{
+                background-color:#BEBEBE;
+        text-align:center;
+            }
+
+            .w{
+                background-color: #FFFFFF;
+        text-align:center;
+            }
+
+            #n{
+                text-align:right;
+            }
+  

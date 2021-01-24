@@ -1,0 +1,28 @@
+ h1 {
+   text-align: center;
+     
+   }
+    .nh {
+    font-style: italic; 
+ }
+            
+            h1{
+                font-size: 22px;
+            }
+
+            .numered:hover{
+                cursor: pointer ;
+            }
+
+            .odd{
+                background-color:#BEBEBE;
+            }
+
+            .pair{
+                background-color: #FFFFFF;
+            }
+
+            #fourth{
+               background-color:#78978D; 
+            }
+
